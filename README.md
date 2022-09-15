@@ -16,7 +16,7 @@ Location Maps with Folium:
 https://nbviewer.org/github/ZTD273/AppliedDataScience/blob/5b5058beda39663548f6086e1264f14d4877e0fe/Launch%20Site%20Location%20Maps%20%28Folium%29.ipynb
 
 Machine Learning Predictions:
-https://nbviewer.org/github/ZTD273/AppliedDataScience/blob/ff47e1e2f111fa1387f733914a545fa0e2b2106c/Machine%20Learning%20Predictions.ipynb
+https://nbviewer.org/github/ZTD273/AppliedDataScience/blob/205122421e5f3a6a2b25e5cce874d05bd6b24e59/Machine%20Learning%20Predictions.ipynb
 
 
 
